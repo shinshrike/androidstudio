@@ -25,3 +25,15 @@
     </application>
 
 </manifest>
+<!--
+<application
+    icon : 앱 아이콘 경로
+    label : 앱 이름
+    roundIcon : 테두리 처리
+    theme : 테마색
+<activity
+    메인 엑티비티 이름
+    <intent-filter
+        <action : 메인 엑티비티
+        <category : 런처
+-->
